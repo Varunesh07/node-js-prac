@@ -1,0 +1,7 @@
+This is the resultant file
+ This is the first file.
+This is the second file.This is the resultant file
+ This is the first file.
+This is the second file.This is the resultant file
+ This is the first file.
+This is the second file.
